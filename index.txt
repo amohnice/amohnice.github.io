@@ -1,0 +1,181 @@
+Amos Kimutai Korir - Web Developer from Nairobi
+
+
+
+#---------- HEADER ----------#
+
+Amos Kimutai Korir
+
+aria-label = Toggle Menu
+
+<ion-icon name="menu-outline"></ion-icon>
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+About
+Portfolio
+Skills
+Contact
+Blog
+
+Download CV
+
+
+
+#---------- HERO ----------#
+
+alt = Amos' Photo
+
+1
+Year of Success
+
+800+
+Projects Completed
+
+<ion-icon name="trophy"></ion-icon>
+
+alt = I'm developer from Nairobi
+
+Hello I'm
+
+Amos Kimutai Korir
+
+Web Developer from Nairobi
+
+Constantly pondering the meaning of life while trying to figure out if my toaster is sentient.
+
+Get a Quote
+
+About Me
+
+
+
+#---------- ABOUT ----------#
+
+alt = Amos' Photo
+
+alt = Amos' Photo
+
+<ion-icon name="logo-css3"></ion-icon>
+<ion-icon name="logo-javascript"></ion-icon>
+<ion-icon name="logo-angular"></ion-icon>
+
+I'm a Developer
+
+I Develop Application that Help People
+
+My mission is to inspire and equip individuals with the tools they need to lead fulfilling lives. I believe that everyone deserves the opportunity to reach their potential, and my application is a step towards making that a reality.ugiat nulla pariatu epteur sint occaecat cupidatat
+
+An ongoing commitment to learning and growth, reflected in the evolution of my skills and the quality of my work over time.
+
+View Portfolio
+
+
+
+#---------- PORTFOLIO ----------#
+
+Portfolio
+
+My Amazing Works
+
+My work spans various domains, demonstrating versatility and adaptability.
+
+Youtube
+
+Web Application for Desiverse
+
+View Project 
+<ion-icon name="arrow-forward"></ion-icon>
+
+Vimeo
+
+Soundcloud
+
+Details
+
+
+
+#---------- SKILLS ----------#
+
+My Skills
+
+I Develop Skills Regularly
+
+A focus on creating intuitive and engaging user experiences.
+
+CSS
+95%
+
+React
+75%
+
+C
+90%
+
+Python
+70%
+
+HTML
+80%
+
+JavaScript
+75%
+
+
+
+#---------- CONTACT ----------#
+
+Don't be shy
+
+Drop Me a Line
+
+placeholder = Name
+
+placeholder = Email
+
+placeholder = Message
+
+Submit Message
+
+<ion-icon name="location"></ion-icon>
+Address
+1, Nairobi, Kenya
+
+<ion-icon name="mail"></ion-icon>
+Email
+hello@ethan.com
+
+<ion-icon name="call"></ion-icon>
+Phone
++123 456 7890
+
+
+
+#---------- BLOG ----------#
+
+Latest News
+
+Checkout My Recent Blogs
+
+Connect with my journey and learn from my experiences.
+
+alt = Jim Morisson Says when the musics over turn off the light
+
+Web Development
+
+Jim Morisson Says when the musics over turn off the light
+
+
+
+#---------- FOOTER ----------#
+
+&copy; 2024 codewithamoh. All Rights Reseverd
+
+Terms & Condition 
+Privacy Policy
+
+
+
+#---------- BACK TO TOP ----------#
+
+BACK TOP
